@@ -1,0 +1,16 @@
+body 
+{
+    font-family: monospace;
+font-style: normal;
+    background: linear-gradient(#bface0,#cbd4ff,#b69fdf, #b0ccdd,  #856fab);
+}
+
+#h3
+{
+font-size: 50px;
+}
+
+#yoursketch,#confidence,#sketch,#score,#timer
+{
+font-size:25px;
+}
